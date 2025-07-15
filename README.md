@@ -1,4 +1,5 @@
 # tofique-azam
+
 this is my first repository
 <br>
-author tofique azam
+author tofiqu azam (student)
